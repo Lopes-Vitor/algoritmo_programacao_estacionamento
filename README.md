@@ -1,7 +1,7 @@
 # algoritmos_programacao_estacionamento
 # exercicio estacionamento
 #
-- **inicio**
+**inicio**
  - Perguntar se a pessoa é idosa, gestante ou pcd
     - **Enquanto** Existem idosos, gestantes ou PCDs? **Faça**
    - Mostrar "Pode estacionar"
