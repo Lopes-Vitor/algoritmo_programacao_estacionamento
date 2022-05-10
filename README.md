@@ -6,7 +6,7 @@
  -    **Enquanto** Existem idosos, gestantes ou PCDs? **Faça**
  -  Mostrar "Pode estacionar"
  -**Fim Enquanto** Mostrar "Nao pode estacionar"
- **FIM** 
+-**FIM** 
 
 
 
