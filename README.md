@@ -7,7 +7,7 @@
       - Mostrar "Pode estacionar"
     - **Se nao** 
       - Mostrar "Nao pode estacionar"
-    - **FIM SE*
+    - **FIM SE**
 - **FIM** 
 
 
