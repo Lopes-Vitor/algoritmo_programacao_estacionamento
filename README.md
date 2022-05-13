@@ -4,9 +4,10 @@
 **inicio**
  - Perguntar se a pessoa é idosa, gestante ou pcd
     - **SE** Existem idosos, gestantes ou PCDs? **Faça**
-    - Mostrar "Pode estacionar"
+      - Mostrar "Pode estacionar"
     - **Se nao** 
-    - Mostrar "Nao pode estacionar"
+      - Mostrar "Nao pode estacionar"
+    - **FIM SE*
 - **FIM** 
 
 
